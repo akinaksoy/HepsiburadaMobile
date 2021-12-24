@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="HepsiBurada" verbose="1">
+    <test name="SampleTest">
+        <classes>
+            <class name="Tests.T_1_Compare_Cities"/>
+			
+        </classes>
+    </test>
+</suite>
